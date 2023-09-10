@@ -46,7 +46,7 @@ public partial class enemy : RigidBody2D {
 		// TODO: implement movement for following
 		
 		follow.HOffset += 1;
-	}
+	} // not functional
 }
 
 
