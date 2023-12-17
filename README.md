@@ -1,5 +1,5 @@
 # Dirt_Game
-This repository contains remnants of code from a personal project I spent a good week or so working on this passed Summer. I greatly underestimated my ability and failed to 
+This repository contains remnants of code from a personal project I spent a good week or so working on this passed Summer. I greatly overestimated my ability and failed to 
 achieve my end goal. 'Dirt's Big Journey' was originally a joke between a few friends of mine before I decided I wanted to make something of it. Dirt is the name of the my 
 friend's cat and I had set out to create a 2D action roguelike in the same vain as 'The Binding of Isaac' as this style seemed attainable. I worked with one other person
 who I had asked to write a story for me, my dream is to be able to adapt other people's stories into seemingly larger-than-life games. None of their writing made it into 
